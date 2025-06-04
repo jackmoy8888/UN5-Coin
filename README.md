@@ -1,4 +1,5 @@
-
+👉 Click here to download the logo
+The file is named: un5-logo-resized.png
 <p align="center">
   <img src="https://chat.openai.com/share-image/file-27VddAABsYi9tBFfwHPbDg" width="200"/>
 </p>
