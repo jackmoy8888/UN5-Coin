@@ -1,3 +1,5 @@
+Final upload: README + Logo
+
 <p align="center">
   <img src="https://github.com/jackmoy8888/UN5-Coin/blob/main/un5-logo-resized.png" width="200"/>
 </p>
